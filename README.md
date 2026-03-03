@@ -3,7 +3,7 @@
 
 <p align="center">
   <strong>A real-time, browser-based market simulation engine with candlestick charting.</strong><br/>
-  Fully random. Zero dependencies beyond <a href="https://github.com/niceboybao/lightweight-charts">Lightweight Charts</a>.
+  Fully random. Zero dependencies.
 </p>
 
 ---
