@@ -50,7 +50,7 @@ Then open **http://localhost:8080** and start simulating!
 
 ## 🎮 How to Use
 
-1. **Set parameters** in the sidebar — initial price, volatility, drift, speed
+1. **Set parameters** in the sidebar: initial price, volatility, drift, speed
 2. Click **Generate** to instantly create some random candles
 3. Click **Live Stream** to watch candles generate in real-time
 4. **Hover** over the chart to see OHLCV stats update in the header
