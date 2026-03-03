@@ -31,7 +31,7 @@
 
 ## Start
 
-**No build step required** — just open `index.html` in your browser or serve it locally:
+**No build step required** just open `index.html` in your browser or serve it locally:
 
 ```bash
 # Clone the repo
