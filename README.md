@@ -90,6 +90,10 @@ app.js              → UI controller (chart setup, event wiring, state)
 | **Speed** | 50ms – 2000ms | 500ms | Interval between candles in live stream mode |
 | **Pre-generate** | 10 – 5,000 | 200 | Number of candles to generate in batch mode |
 
+
+You can see it live: [click here](https://www.omegatradinghub.com/simulator)
+
+
 ## 📄 License
 
 Do whatever you want with it.
