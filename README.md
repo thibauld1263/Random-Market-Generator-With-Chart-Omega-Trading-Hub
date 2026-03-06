@@ -6,6 +6,11 @@
   Fully random. Zero dependencies.
 </p>
 
+
+
+https://medium.com/@thibauld1263/i-built-a-random-market-generator-to-test-trading-patterns-heres-what-i-found-94db6568b923
+
+
 ---
 
 ## Features
