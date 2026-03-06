@@ -1,5 +1,5 @@
 
-<h1 align="center">📈 Random Market Simulator</h1>
+<h1 align="center">Random Market Simulator</h1>
 
 <p align="center">
   <strong>A real-time, browser-based market simulation engine with candlestick charting.</strong><br/>
@@ -83,7 +83,7 @@ app.js              → UI controller (chart setup, event wiring, state)
 
 
 
-## 📄 License
+## License
 
 Do whatever you want with it.
 
