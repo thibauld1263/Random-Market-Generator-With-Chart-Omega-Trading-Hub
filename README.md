@@ -31,20 +31,8 @@
 
 ## Start
 
-**No build step required** just open `index.html` in your browser or serve it locally:
+**No build step required** just open `index.html` in your browser 
 
-```bash
-# Clone the repo
-git clone https://github.com/YOUR_USERNAME/random-market-sim.git
-cd random-market-sim
-
-# Serve locally (pick any method)
-npx http-server . -p 8080
-# or
-python -m http.server 8080
-```
-
-Then open **http://localhost:8080** and start simulating!
 
 ---
 
@@ -90,8 +78,6 @@ app.js              → UI controller (chart setup, event wiring, state)
 | **Speed** | 50ms – 2000ms | 500ms | Interval between candles in live stream mode |
 | **Pre-generate** | 10 – 5,000 | 200 | Number of candles to generate in batch mode |
 
-
-You can see it live: [click here](https://www.omegatradinghub.com/simulator)
 
 
 ## 📄 License
