@@ -39,7 +39,7 @@ https://medium.com/@thibauld1263/i-built-a-random-market-generator-to-test-tradi
 
 ---
 
-## 🎮 How to Use
+## How to Use
 
 1. **Set parameters** in the sidebar: initial price, volatility, drift, speed
 2. Click **Generate** to instantly create some random candles
@@ -50,7 +50,7 @@ https://medium.com/@thibauld1263/i-built-a-random-market-generator-to-test-tradi
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 The price engine uses **Geometric Brownian Motion (GBM)**, the same mathematical model used in options pricing (Black-Scholes):
 
@@ -71,7 +71,7 @@ app.js              → UI controller (chart setup, event wiring, state)
 
 ---
 
-## ⚙️ Parameters
+## Parameters
 
 | Parameter | Range | Default | Description |
 |---|---|---|---|
