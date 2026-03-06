@@ -101,5 +101,5 @@ Do whatever you want with it.
 ---
 
 <p align="center">
-  <sub>Built for fun, education, and the love of charts. Not financial advice. Obviously. 😄</sub>
+  <sub>Built for the love of charts.</sub>
 </p>
