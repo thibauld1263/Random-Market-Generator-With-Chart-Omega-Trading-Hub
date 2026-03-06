@@ -17,15 +17,13 @@ https://medium.com/@thibauld1263/i-built-a-random-market-generator-to-test-tradi
 
 | Feature | Description |
 |---|---|
-| 🕯️ **Candlestick Chart** | OHLCV candlesticks |
-| 🎲 **Random Walk Engine** | Geometric Brownian Motion with intra-candle tick simulation for realistic price action |
-| ▶️ **Instant Generation** | Generate hundreds of candles in one click |
-| 🔴 **Live Streaming** | Watch candles appear in real-time with auto-scroll |
-| 🎛️ **Tunable Parameters** | Adjust volatility, drift (trend bias), speed, and starting price on the fly |
-| 📊 **Technical Overlays** | SMA(20), EMA(50), and volume histogram |
-| 📈 **Stats Bar** | Live Open, High, Low, Close, Volume, and % Change display |
-| 📱 **Responsive** | Works on desktop and tablet viewports |
-
+| **Candlestick Chart** | OHLCV candlesticks |
+| **Random Walk Engine** | Geometric Brownian Motion with intra-candle tick simulation for realistic price action |
+| **Instant Generation** | Generate hundreds of candles in one click |
+| **Live Streaming** | Watch candles appear in real-time with auto-scroll |
+| **Parameters** | Adjust volatility, drift (trend bias), speed, and starting price on the fly |
+| **Technical Indicators** | SMA(20), EMA(50), and volume histogram |
+| **Stats Bar** | Live Open, High, Low, Close, Volume, and % Change display |
 ---
 
 ## Preview
